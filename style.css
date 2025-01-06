@@ -1,0 +1,34 @@
+body{
+    border: 1px solid black;
+    width: 60%;
+    padding-left: 25px;
+}
+
+table{
+    width: 80%;
+    margin: 0,left;
+    border: 10cm;
+
+}
+.color{
+    background-color: #ddd;
+}
+
+.bold{
+    background-color: rgb(2, 2, 25);
+    color: white;
+}
+
+.t{
+    position: relative;
+    left: 34%;
+}
+
+.t2{
+    position: relative;
+    left: 20%;
+}
+.t3{
+    position: relative;
+    left: 8%;
+}
